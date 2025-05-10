@@ -36,17 +36,4 @@
 
 ---
 
-## ⚙️ Como rodar localmente
-
-```bash
-# 1. Clone o repositório
-git clone https://github.com/seuusuario/sistema-login-customtkinter.git
-
-# 2. Entre na pasta do projeto
-cd sistema-login-customtkinter
-
-# 3. Instale os pacotes necessários
-pip install customtkinter pillow openpyxl
-
-# 4. Execute a aplicação
-python main.py
+Feito por ❤ [Marcos](https://www.linkedin.com/in/marcos-augusto-dev/)
