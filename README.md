@@ -10,11 +10,7 @@
 
 ## 📸 Demonstrações
 
-### Funcionalidade:
-![Login](prints/login_tela.png)
-
-### Tela de Cadastro:
-![Cadastro](prints/cadastro_tela.png)
+![Login](animacao_sys_login.gif)
 
 ---
 
