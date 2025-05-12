@@ -10,7 +10,7 @@
 
 ## 📸 Demonstrações
 
-![Login](animacao_sys_login.gif)
+![Login](assets/animacao_sys_login.gif)
 
 ---
 
